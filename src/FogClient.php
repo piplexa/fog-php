@@ -141,7 +141,7 @@ class FogClient
     public function freespace (): array
     {
         return [
-            'disk1' => '50GB',
+            'disk1' => '5000000GB',
             'disk2' => '100GB',
             'disk3' => '200GB'
         ];
